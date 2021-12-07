@@ -1,0 +1,57 @@
+*{
+    background-color: #DCDCDC;
+}
+.nazvanregis ul h1{
+
+    display: inline-block;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 17px;
+}
+.nazvanregis{
+    margin-left: 567px;
+    margin-top: 50px;
+}
+.rectangle {
+    width:200px;
+    height:100px;
+    background:blue;
+}
+.box{
+    height: 100px;
+    width: 100px;
+}
+.bord{
+    margin-left: 607px;
+}
+.input{
+    margin-top: 76px;
+    margin-left: 20px;
+    width: 250px;
+    height: 30px;
+}
+.prodoljit button{
+    width:258px; 
+    height:28px;
+    margin-left:20px;
+    margin-top: 15px;
+    background-color: 	#00bfff;
+    color: white;
+
+}
+.vxod{
+    font-size: 15px;
+    margin-top: -120px;
+    margin-left: 20px;
+    background-color: MintCream;
+}
+.sluzhbu h1{
+    font-size: 16px;
+    margin-left: 40px;
+    margin-top: 30px;
+    color: blue;
+
+}
+    
+
+

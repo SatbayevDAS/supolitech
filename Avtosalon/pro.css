@@ -1,0 +1,324 @@
+*{
+    margin: 0 auto;
+    
+}
+.nazvan ul li{
+    display: inline-block;
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.nazvan{
+    margin-left: 110px;
+    margin-top: 12px;
+}
+.regis{
+    font-size: 8px;
+    margin-left: 1110px;
+    margin-top: -20px;
+}
+.lishniy{
+    font-size: 8px;
+    margin-left: 1230px;
+    margin-top: -19px;
+}
+.kolesa img{
+    height: 70px;
+    width: 180px;
+    margin-left: 175px;
+    margin-top: 25px;
+}
+.kolkatar ul li{
+display: inline-block;
+margin-left: 15px;
+
+}
+.kolkatar{
+    margin-left: 340px;
+    margin-top: -40px;
+    min-width: 1200px;
+}
+.kolkat3{
+    display: none;
+}
+
+.podat{
+    margin-left: 1150px;
+    margin-top: -35px;
+}
+.podat button{
+    height: 30px;
+    width: 210px;
+}
+.podat button svg{
+    margin-right: 7px;   
+}
+.kolkatar2 ul li{
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 22px;
+}
+.kolkatar2 ul{
+    margin-top: 80px;
+    margin-left: -30px;
+    
+}
+.kolkatar2{
+    background-color: #FFE4C4;
+    height: 70px;
+    width: 1195px;
+    margin-top: -30px;
+    margin-left: 170px;
+    min-width: 1200px;
+}
+.variant1 button{
+    height: 200px;
+    width: 1193px;
+}
+.variant1{
+    margin-left: 172px;
+    margin-top: 20px;
+    
+}
+.but img{
+    height: 180px;
+    width: 230px;
+    margin-right: 946px;
+    margin-top: 2px;
+}
+.naz1{
+    margin-top: -190px;
+margin-left: 450px;
+}
+.naz1 h1{
+    font-size: 22px;
+}
+.naz1 h2{
+    margin-top: 12px;
+    font-size: 16px;
+}
+.naz1 h3{
+    margin-left: 775px;
+    margin-top: -85px;
+    font-weight: bold;
+    font-size: 23px;
+}
+.naz1 h4{
+    margin-top: 130px;
+    font-weight: normal;
+}
+.naz1 h5{
+    margin-left: 90px;
+    font-weight: normal;
+    margin-top: -19px;
+    font-size: 16px;
+}
+.naz1 h6{
+    margin-top: -19px;
+    margin-left: 200px;
+    font-weight: normal;
+    font-size: 16px;
+}
+.naz1 .kredit{
+    margin-top: -140px;
+    margin-left: 820px;
+    font-size: 18px;
+    font-weight: 200;
+}
+.naz1 .mes{
+    margin-left: 800px;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+
+.variant2 .but2{
+    height: 200px;
+    width: 1193px;
+    margin-top: 20px;
+}
+.variant2{
+    margin-left: 172px;
+    margin-top: 100px;
+}
+.but2 img{
+    height: 180px;
+    width: 230px;
+    margin-right: 946px;
+    margin-top: 2px;
+}
+.naz2{
+    margin-top: -190px;
+margin-left: 280px;
+}
+.naz2 h1{
+    font-size: 22px;
+}
+.naz2 h2{
+    margin-top: 12px;
+    font-size: 16px;
+}
+.naz2 h3{
+    margin-left: 775px;
+    margin-top: -85px;
+    font-weight: bold;
+    font-size: 23px;
+}
+.naz2 h4{
+    margin-top: 130px;
+    font-weight: normal;
+}
+.naz2 h5{
+    margin-left: 90px;
+    font-weight: normal;
+    margin-top: -19px;
+    font-size: 16px;
+}
+.naz2 h6{
+    margin-top: -19px;
+    margin-left: 200px;
+    font-weight: normal;
+    font-size: 16px;
+}
+.naz2 .kredit{
+    margin-top: -140px;
+    margin-left: 820px;
+    font-size: 18px;
+    font-weight: 200;
+}
+.naz2 .mes{
+    margin-left: 800px;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+
+.variant3 .but3{
+    height: 200px;
+    width: 1193px;
+    margin-top: 20px;
+    margin-left: -173px;
+}
+.variant3{
+    margin-left: 172px;
+    margin-top: 100px;
+}
+.but3 img{
+    height: 180px;
+    width: 230px;
+    margin-right: 946px;
+    margin-top: 2px;
+}
+.naz3{
+    margin-top: -190px;
+margin-left: 110px;
+}
+.naz3 h1{
+    font-size: 22px;
+}
+.naz3 h2{
+    margin-top: 12px;
+    font-size: 16px;
+}
+.naz3 h3{
+    margin-left: 775px;
+    margin-top: -85px;
+    font-weight: bold;
+    font-size: 23px;
+}
+.naz3 h4{
+    margin-top: 130px;
+    font-weight: normal;
+}
+.naz3 h5{
+    margin-left: 90px;
+    font-weight: normal;
+    margin-top: -19px;
+    font-size: 16px;
+}
+.naz3 h6{
+    margin-top: -19px;
+    margin-left: 200px;
+    font-weight: normal;
+    font-size: 16px;
+}
+.naz3 .kredit{
+    margin-top: -140px;
+    margin-left: 820px;
+    font-size: 18px;
+    font-weight: 200;
+}
+.naz3 .mes{
+    margin-left: 800px;
+    font-size: 16px;
+    margin-top: 15px;
+}
+.syzyk{
+    margin-top: 150px;
+    margin-left: -185px;
+    width: 1220px;
+}
+.too{
+    margin-left: -175px;
+    margin-top: 20px;
+}
+
+#toggle{
+    display: none;
+}
+label{
+    margin-left: 15px;
+    margin-top: 15px;
+    font-size: 32px;
+    
+}
+@media (max-width: 700px){
+    body{
+        margin: 0 auto;
+    }
+    .nazvan{
+        margin-top: -36px;
+        margin-left: 39px;
+        display: none;
+    }
+   .nav label{
+    display: block;
+    cursor: pointer;
+    }
+   
+    .kolkatar ul li{
+        display: block;
+        
+    }
+    .kolesa img{
+        height: 45px;
+        width: 100px;
+        
+    }
+    .kolkatar{
+        margin-top: 60px;
+        margin-left: 40px;
+        font-size: 24px;
+        letter-spacing: 5px;
+        text-transform: uppercase;   
+    }
+    .kolkatar ul li {
+        margin-top: 10px;
+    }
+    .kolesa{
+        margin-top: -90px;
+        margin-left: -80px;
+        display: none;
+    }
+    .kolkatar2{
+        display: none;
+    }
+  
+  
+    #toggle:checked + .kolkatar ul li{
+        display: none;
+    }
+    
+
+    
+}
